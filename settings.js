@@ -22,7 +22,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['2349066380818'] //ur owner number
-global.ownername = "༒𝕋ℝ𝔸𝕍𝕀𝕊🧸" //ur owner name
+global.ownername = "𝕋ℝ𝔸𝕍𝕀𝕊🧸" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -30,7 +30,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //new
 global.botname = "Cheems Bot MD V8"
 global.ownernumber = '2349066380818'
-global.ownername = '༒𝕋ℝ𝔸𝕍𝕀𝕊'
+global.ownername = '𝕋ℝ𝔸𝕍𝕀𝕊'
 global.ownerNumber = ["2349066380818@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
